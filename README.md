@@ -1,6 +1,6 @@
 # MedCure - Your Medical Companion
 
-![MedCure App Logo](C:\Users\HP USER\Downloads\meddy.png)
+![meddy](https://github.com/divo662/MedCure/assets/83912007/fb93b961-f422-40f4-b639-987d5ddb2f35)
 
 MedCure is a simple medical app that provides a user-friendly interface for finding doctors, managing appointments, and keeping track of your medical transactions. It's built using Flutter and utilizes the Provider state management for smooth data handling.
 
@@ -13,8 +13,16 @@ MedCure is a simple medical app that provides a user-friendly interface for find
 
 ## Screenshots
 
-![Screenshot 1](C:\Users\HP USER\Documents\Fahad Notes\DSA\Screenshot 2023-09-06 010422.png)
-![Screenshot 2](C:\Users\HP USER\Pictures\Screenshots\Screenshot 2023-09-06 005932.png)
+![Screenshot 2023-09-06 010527](https://github.com/divo662/MedCure/assets/83912007/01c2dcc6-aa44-4499-8826-f238a8cba80c)
+
+![Screenshot 2023-09-06 005932](https://github.com/divo662/MedCure/assets/83912007/320cb386-cb5e-45a1-96ef-6131de3030d0)
+
+![Screenshot 2023-09-06 010441](https://github.com/divo662/MedCure/assets/83912007/5342bbdd-2f52-44f2-a77d-1ca4729391ed)
+
+![Screenshot 2023-09-06 010508](https://github.com/divo662/MedCure/assets/83912007/9bd152f0-868c-4e32-afcd-4780c0587732)
+
+![Screenshot 2023-09-06 010515](https://github.com/divo662/MedCure/assets/83912007/8c1adb65-8e5d-4547-91d9-43b75536a0a9)
+
 
 ## Getting Started
 
